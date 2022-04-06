@@ -1,0 +1,19 @@
+{
+    "name": "ROBOT",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "CScNEJMPB47RHvcdgzZj39SnhKAHByBRfSS3v516x2jX",
+          "share": 100
+        }
+      ]
+    }
+  }

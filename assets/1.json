@@ -1,0 +1,19 @@
+{
+    "name": "CAT",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "CScNEJMPB47RHvcdgzZj39SnhKAHByBRfSS3v516x2jX",
+          "share": 100
+        }
+      ]
+    }
+  }
