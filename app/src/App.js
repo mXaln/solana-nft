@@ -3,10 +3,6 @@ import './App.css';
 import CandyMachine from './CandyMachine';
 
 
-// Constants
-const TWITTER_HANDLE = '_buildspace';
-const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
-
 const App = () => {
   const [walletAddress, setWalletAddress] = useState(null);
   
