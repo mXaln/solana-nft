@@ -1,7 +1,8 @@
 {
-    "name": "COVER",
+    "name": "ROBOT",
     "symbol": "",
     "image": "0.png",
+    "seller_fee_basis_points": 1000,
     "properties": {
       "files": [
         {
